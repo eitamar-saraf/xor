@@ -32,5 +32,5 @@ Plots are saved in `plots/` by default, along with `metadata.json` describing th
 
 ## License
 
-MIT
+MIT — Free for anyone to use, copy, modify, and distribute for any purpose.
 
